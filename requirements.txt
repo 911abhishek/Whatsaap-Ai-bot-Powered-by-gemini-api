@@ -1,5 +1,1 @@
-first we need the google gemini in our env:-, flask , requirements, twilio
-pip install -q -U google-generativeai
-
-#second step
-https://ai.google.dev/tutorials/quickstart_colab read the documentation to get started using it
+###
